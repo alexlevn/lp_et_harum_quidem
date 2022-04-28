@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lp_et_harum_quidem/static/css/main.964fdded.css",
+    "main.js": "/lp_et_harum_quidem/static/js/main.3c1ace3b.js",
+    "static/js/787.d30a471b.chunk.js": "/lp_et_harum_quidem/static/js/787.d30a471b.chunk.js",
+    "index.html": "/lp_et_harum_quidem/index.html",
+    "main.964fdded.css.map": "/lp_et_harum_quidem/static/css/main.964fdded.css.map",
+    "main.3c1ace3b.js.map": "/lp_et_harum_quidem/static/js/main.3c1ace3b.js.map",
+    "787.d30a471b.chunk.js.map": "/lp_et_harum_quidem/static/js/787.d30a471b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.964fdded.css",
+    "static/js/main.3c1ace3b.js"
+  ]
+}
